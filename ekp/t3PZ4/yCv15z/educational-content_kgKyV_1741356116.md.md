@@ -97,7 +97,6 @@ These seminars and breakdowns provide deep technical content for security resear
 | [**Cairo Security (Peteris Erins)**](https://youtu.be/9CIhHNrliW4?si=gD9i44Je7g719z8n) | **Peteris Erins** | — | |
 | [**Nova: The ZK Bug of the Year (by Wilson Nguyen)**](https://www.youtube.com/watch?v=SOAQCL1NaYY) | **mercysjest** | — | |
 | [**Web3 Private Infrastructure with HOPR**](https://youtu.be/hMIf_RUSq9o?si=iG56B-Bm2vqDhQTJ) | **scbuergel** | — | |
-| [**ZKP Security Overview**](https://youtu.be/8wsR7o0rOxU) | **rkm0959** | — | | 
 | [**Cross-Chain Security: LayerZero Labs**](https://youtu.be/ZR3y-aUyJNA) | **Ryan Zarick** | — | | 
 | [**Analyzing Polygon's zkEVM PIL State Machines**](https://youtu.be/CeEADadsbTI) | **Leonardo Alt** | — | | 
 | [**Community Workshop: Sudoswap**](https://youtu.be/ObtRRW5yERY) | **Rajeev, Cryptonicle1, and Deivitto** | — | |
