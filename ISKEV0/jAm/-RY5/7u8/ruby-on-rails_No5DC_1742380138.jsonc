@@ -57,7 +57,6 @@
       "code_blocks": false,
       "html_elements": false,
       "names": ["CSS", "HTML", "JavaScript"]
-    },
     // code-block-style
     // Prevents indented code blocks from being used
     "MD046": {
